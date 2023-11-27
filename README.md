@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm currently working as a PhD researcher at [MPI-CBG Dresden, Germany](https://www.mpi-cbg.de/).
-- My current area of research is biomechanics.
-- I am currently learning more about bioinformatics and machine learning.
+- My current area of research is biophysics. 
+- I am currently learning more about using machine learning and deep learning in healthcare.
 - How to reach me: [E-mail](mailto:abhijeet095@gmail.com).
 - Pronouns: He/him.
